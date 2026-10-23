@@ -1,71 +1,63 @@
- <div align="center">
-  <img src="assets/be-cover.png" alt="BE Ecosystem — The life we live. The love we give." width="100%" />
+<div align="center">
+  <img src="assets/be-cover.png" alt="BE — The life we live. The love we give." width="100%" />
 </div>
 
 ## Cuộc đời ta sống. Yêu thương ta trao.
-
----
 
 Có những điều theo ta suốt đời, cũng có những điều chỉ ở lại trong khoảnh khắc.
 
 Sinh, lão, bệnh, tử vốn là lẽ thường của đời người. Chính sự vô thường ấy khiến ta luôn tìm kiếm sự trọn vẹn, sự đủ đầy.
 
-BE được hình thành từ mong muốn ấy, để cùng đón những khởi đầu, đồng hành qua những đổi thay và sẻ chia cả những phút chia ly.
+**BE** được hình thành từ mong muốn ấy, để cùng đón những khởi đầu, đồng hành qua những đổi thay và sẻ chia cả những phút chia ly.
 
-Hãy cùng BE đồng hành trọn vẹn đời người.
+**Hãy cùng BE đồng hành trọn vẹn đời người.**
 
 ---
 
 ## Những chặng đường của BE
 
+Một đời người có nhiều chặng đường, mỗi chặng đường lại có những điều cần được thấu hiểu, chăm sóc và gìn giữ.
+
 <div align="center">
-  <img src="assets/be-journey.png" alt="Bốn không gian của BE" width="100%" />
+  <img src="assets/be-journey.png" alt="BEGIN, BELONG, BESIDE và BEYOND — bốn chặng đường của BE" width="100%" />
 </div>
 
-### BEGIN — Sinh · Khởi đầu
+### BEGIN — Khởi đầu
 
-<img src="assets/begin.svg" alt="Logo BEGIN" width="80" />
+Từ khi một sự sống chào đời đến những bước đầu tiên trên hành trình trưởng thành. **BEGIN** là không gian chia sẻ kiến thức, kinh nghiệm và sự quan tâm dành cho trẻ nhỏ cùng những người chăm sóc.
 
-Nâng niu những khởi đầu, chia sẻ hiểu biết và đồng hành cùng sự trưởng thành.
+### BELONG — Thuộc về
 
-### BELONG — Lão · Thuộc về
+Tuổi tác có thể đổi thay, nhưng nhu cầu được yêu thương và thuộc về vẫn luôn hiện hữu. **BELONG** hướng đến người cao tuổi, kết nối các thế hệ và gìn giữ những kinh nghiệm được tích lũy qua năm tháng.
 
-<img src="assets/belong.svg" alt="Logo BELONG" width="80" />
+### BESIDE — Đồng hành
 
-Kết nối các thế hệ, trân trọng năm tháng đã qua và những kinh nghiệm được trao truyền.
+Khi sức khỏe không còn như trước, một sự hiện diện và thấu hiểu có thể trở nên quý giá. **BESIDE** là không gian sẻ chia kiến thức, kinh nghiệm và kết nối người bệnh với những người luôn muốn ở bên.
 
-### BESIDE — Bệnh · Đồng hành
+### BEYOND — Tiếp nối
 
-<img src="assets/beside.svg" alt="Logo BESIDE" width="80" />
-
-Để người cần được chăm sóc và người muốn ở bên có thêm sự thấu hiểu, sẻ chia.
-
-### BEYOND — Tử · Tiếp nối
-
-<img src="assets/beyond.svg" alt="Logo BEYOND" width="80" />
-
-Gìn giữ ký ức, tôn trọng những cuộc đời và nâng niu các giá trị còn ở lại.
+Một cuộc đời khép lại, nhưng không phải mọi điều đều mất đi. **BEYOND** là nơi tưởng nhớ người đã khuất, lưu giữ những câu chuyện và tiếp nối những giá trị còn ở lại.
 
 ---
 
 ## Điều chúng tôi tin
 
-### Con người, trước công nghệ.
+**Con người, trước công nghệ.**
 
-Công nghệ chỉ có ý nghĩa khi giúp ta hiểu nhau và quan tâm đến nhau tốt hơn.
+Công nghệ có ý nghĩa khi giúp con người thấu hiểu, kết nối và quan tâm đến nhau.
 
-### Sự chăm sóc bắt đầu từ thấu hiểu.
+**Mỗi hành trình đều đáng được trân trọng.**
 
-Mỗi người có hành trình riêng, cùng với những lựa chọn, giới hạn và quyền riêng tư đáng được tôn trọng.
+Mỗi người có một câu chuyện, những lựa chọn và giới hạn riêng, xứng đáng được lắng nghe và tôn trọng.
 
-### Những điều đẹp đẽ có thể được trao lại.
+**Những điều quý giá luôn có thể được trao lại.**
 
-Một lời kể, một kinh nghiệm, một ký ức — đôi khi là điều quý giá nhất ta để lại cho nhau.
+Tri thức, kinh nghiệm, tình thương hay một ký ức — đều có thể trở thành điều ý nghĩa trong cuộc đời người khác.
 
 ---
 
 <div align="center">
-  <img src="assets/be-emblem.png" alt="Logo BE" width="100" />
+  <img src="assets/be-emblem.png" alt="BE Ecosystem" width="96" />
 </div>
 
 <h2 align="center">BE</h2>
@@ -73,5 +65,6 @@ Một lời kể, một kinh nghiệm, một ký ức — đôi khi là điều 
 <h3 align="center">The life we live. The love we give.</h3>
 
 <p align="center">
-  <em>Một hệ sinh thái đang được định hình, lấy con người và sự quan tâm làm trung tâm.</em>
+  <em>Cuộc đời ta sống. Yêu thương ta trao.</em>
 </p>
+
