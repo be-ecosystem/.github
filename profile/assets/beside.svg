@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="THÂN — Bệnh">
+<defs>
+  <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A64C38"/><stop offset=".55" stop-color="#A04632"/><stop offset="1" stop-color="#9A402C"/></linearGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBFAF5"/><stop offset="1" stop-color="#F6F3EB"/></linearGradient>
+</defs>
+<path d="M 49 12 C 57 4 71 4 79 12 L 116 49 C 124 57 124 71 116 79
+L 79 116 C 71 124 57 124 49 116 L 12 79 C 4 71 4 57 12 49 Z" fill="url(#tile)"/>
+<g fill="url(#paper)"><path d="M 61 35 H 67 C 71 35 74 38 74 42 V 54 H 86 C 90 54 93 57 93 61 V 67
+C 93 71 90 74 86 74 H 74 V 86 C 74 90 71 93 67 93 H 61 C 57 93 54 90 54 86 V 74 H 42
+C 38 74 35 71 35 67 V 61 C 35 57 38 54 42 54 H 54 V 42 C 54 38 57 35 61 35 Z"/></g>
+</svg>

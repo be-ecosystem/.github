@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="THÂN — Lão">
+<defs>
+  <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5B6243"/><stop offset=".55" stop-color="#555C3D"/><stop offset="1" stop-color="#4F5637"/></linearGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBFAF5"/><stop offset="1" stop-color="#F6F3EB"/></linearGradient>
+</defs>
+<path d="M 49 12 C 57 4 71 4 79 12 L 116 49 C 124 57 124 71 116 79
+L 79 116 C 71 124 57 124 49 116 L 12 79 C 4 71 4 57 12 49 Z" fill="url(#tile)"/>
+<g fill="url(#paper)"><g transform="translate(0 -2)"><rect x="43" y="35" width="42" height="7" rx="3.5"/>
+<path d="M 49 46 H 79 V 49 C 79 56.5 74 60.2 67.7 64.6 C 65.8 65.9 65.8 67.1 67.7 68.4 C 74 72.8 79 76.5 79 84 V 86 H 49 V 84 C 49 76.5 54 72.8 60.3 68.4 C 62.2 67.1 62.2 65.9 60.3 64.6 C 54 60.2 49 56.5 49 49 Z"/>
+<rect x="43" y="90" width="42" height="7" rx="3.5"/></g></g>
+</svg>

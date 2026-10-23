@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="THÂN — Tử">
+<defs>
+  <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#353631"/><stop offset=".55" stop-color="#2F302B"/><stop offset="1" stop-color="#292A25"/></linearGradient>
+  <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBFAF5"/><stop offset="1" stop-color="#F6F3EB"/></linearGradient>
+</defs>
+<path d="M 49 12 C 57 4 71 4 79 12 L 116 49 C 124 57 124 71 116 79
+L 79 116 C 71 124 57 124 49 116 L 12 79 C 4 71 4 57 12 49 Z" fill="url(#tile)"/>
+<g fill="url(#paper)"><path d="M 64 28 C 61.5 35 57 39.5 56 46 C 54.5 53 57 56 62 58.5 C 63.4 59.2 64.6 59.2 66 58.5 C 71 56 73.5 53 72 46 C 71 39.5 66.5 35 64 28 Z"/>
+<rect x="62.5" y="58.5" width="3" height="9" rx="1.5"/>
+<path d="M 52 67 C 52 64 54 62.5 57 62.5 H 71 C 74 62.5 76 64 76 67 V 92 H 52 Z"/>
+<rect x="46" y="92" width="36" height="6.5" rx="3.25"/></g>
+</svg>
