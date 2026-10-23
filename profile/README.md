@@ -6,13 +6,13 @@
 
 ---
 
-## Một đời người, nhiều cách ở bên.
+Có những điều theo ta suốt đời, cũng có những điều chỉ ở lại trong khoảnh khắc.
 
-Có những điều ta mang theo từ lúc chào đời. Có những điều được trao cho ta qua năm tháng. Và có những điều, dù thời gian đi qua, vẫn ở lại trong cuộc đời người khác.
+Sinh, lão, bệnh, tử vốn là lẽ thường của đời người. Chính sự vô thường ấy khiến ta luôn tìm kiếm sự trọn vẹn, sự đủ đầy.
 
-Sinh, lão, bệnh, tử là những chặng đường tự nhiên của đời người. Chính sự hữu hạn ấy khiến ta muốn **sống trọn vẹn hơn, quan tâm nhiều hơn, và gìn giữ những điều gần gũi nhất.**
+BE được hình thành từ mong muốn ấy, để cùng đón những khởi đầu, đồng hành qua những đổi thay và sẻ chia cả những phút chia ly.
 
-**BE** được hình thành để sự quan tâm ấy có nơi tiếp nối: nơi hiểu biết được sẻ chia, trải nghiệm được trao lại, sự đồng hành được kết nối và ký ức được nâng niu.
+Hãy cùng BE đồng hành trọn vẹn đời người.
 
 ---
 
