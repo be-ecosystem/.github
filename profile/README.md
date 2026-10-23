@@ -16,55 +16,56 @@ Sinh, lão, bệnh, tử vốn là lẽ thường của đời người. Chính 
 
 ## Những chặng đường của BE
 
-Một đời người có nhiều chặng đường, mỗi chặng đường lại có những điều cần được thấu hiểu, chăm sóc và gìn giữ.
+Bốn không gian, bốn hành trình riêng biệt, cùng hướng đến một điều: sự quan tâm dành cho con người qua từng chặng đường đời.
 
 <div align="center">
-  <img src="assets/be-journey.png" alt="BEGIN, BELONG, BESIDE và BEYOND — bốn chặng đường của BE" width="100%" />
+  <img src="assets/be-journey.png" alt="Hệ sinh thái BE — BEGIN, BELONG, BESIDE và BEYOND" width="100%" />
 </div>
 
 ### BEGIN — Khởi đầu
 
-Từ khi một sự sống chào đời đến những bước đầu tiên trên hành trình trưởng thành. **BEGIN** là không gian chia sẻ kiến thức, kinh nghiệm và sự quan tâm dành cho trẻ nhỏ cùng những người chăm sóc.
+Mỗi sự sống là một khởi đầu đáng được nâng niu. **BEGIN** hướng đến trẻ nhỏ và những người chăm sóc, sẻ chia kiến thức, kinh nghiệm và đồng hành cùng từng bước trưởng thành.
 
 ### BELONG — Thuộc về
 
-Tuổi tác có thể đổi thay, nhưng nhu cầu được yêu thương và thuộc về vẫn luôn hiện hữu. **BELONG** hướng đến người cao tuổi, kết nối các thế hệ và gìn giữ những kinh nghiệm được tích lũy qua năm tháng.
+Năm tháng qua đi, mỗi người đều mang theo những câu chuyện riêng. **BELONG** hướng đến người cao tuổi, kết nối các thế hệ, trân trọng trải nghiệm và những giá trị được trao truyền.
 
 ### BESIDE — Đồng hành
 
-Khi sức khỏe không còn như trước, một sự hiện diện và thấu hiểu có thể trở nên quý giá. **BESIDE** là không gian sẻ chia kiến thức, kinh nghiệm và kết nối người bệnh với những người luôn muốn ở bên.
+Có những lúc, sự quan tâm và thấu hiểu trở nên quý giá hơn bao giờ hết. **BESIDE** hướng đến người bệnh và người chăm sóc, nơi kiến thức, kinh nghiệm và sự sẻ chia được kết nối.
 
 ### BEYOND — Tiếp nối
 
-Một cuộc đời khép lại, nhưng không phải mọi điều đều mất đi. **BEYOND** là nơi tưởng nhớ người đã khuất, lưu giữ những câu chuyện và tiếp nối những giá trị còn ở lại.
+Một cuộc đời có thể khép lại, nhưng những điều để lại vẫn có thể tiếp nối. **BEYOND** là không gian tưởng nhớ, lưu giữ ký ức và gìn giữ những giá trị của người đã khuất.
 
 ---
 
 ## Điều chúng tôi tin
 
-**Con người, trước công nghệ.**
+### Con người, trước công nghệ.
 
-Công nghệ có ý nghĩa khi giúp con người thấu hiểu, kết nối và quan tâm đến nhau.
+Công nghệ có ý nghĩa khi giúp con người thấu hiểu, kết nối và quan tâm đến nhau tốt hơn.
 
-**Mỗi hành trình đều đáng được trân trọng.**
+### Sự quan tâm bắt đầu từ thấu hiểu.
 
-Mỗi người có một câu chuyện, những lựa chọn và giới hạn riêng, xứng đáng được lắng nghe và tôn trọng.
+Mỗi người có một hành trình riêng, với những lựa chọn, giới hạn và quyền riêng tư đáng được tôn trọng.
 
-**Những điều quý giá luôn có thể được trao lại.**
+### Những điều quý giá luôn có thể được trao lại.
 
-Tri thức, kinh nghiệm, tình thương hay một ký ức — đều có thể trở thành điều ý nghĩa trong cuộc đời người khác.
+Một hiểu biết, một kinh nghiệm, một câu chuyện hay một ký ức — đều có thể mang ý nghĩa trong cuộc đời người khác.
 
 ---
 
 <div align="center">
   <img src="assets/be-emblem.png" alt="BE Ecosystem" width="96" />
+
+  <h2>BE</h2>
+
+  <p><strong>The life we live.<br>The love we give.</strong></p>
+
+  <p><em>Cuộc đời ta sống. Yêu thương ta trao.</em></p>
+
+  <sub>A human-centered ecosystem.</sub>
+
+  <p><sub>An initiative by <strong>THIÊN ĐÌNH</strong>.</sub></p>
 </div>
-
-<h2 align="center">BE</h2>
-
-<h3 align="center">The life we live. The love we give.</h3>
-
-<p align="center">
-  <em>Cuộc đời ta sống. Yêu thương ta trao.</em>
-</p>
-
